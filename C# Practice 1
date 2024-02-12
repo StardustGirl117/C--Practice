@@ -6,7 +6,7 @@ namespace HelloWorld
   {
     static void Main()
     {
-      string str1 = "I love you";
+      string str1 = "I /nlove /nyou";
       string upperstr1 = str1.ToUpper();
       Console.WriteLine(upperstr1);
      }
